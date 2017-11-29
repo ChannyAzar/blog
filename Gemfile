@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+test
 gem 'rails', '3.2.8'
 
 # Bundle edge Rails instead:
